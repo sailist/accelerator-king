@@ -1,3 +1,4 @@
-## [niceneo](https://niceneo.com/?rc=phi2wsny)
+## 点击 [niceneo](https://niceneo.com/?rc=phi2wsny) 注册
 
-配置教程：https://neoladder.org/doc/
+- 选择任意套餐均可
+- 购买后配置教程：https://neoladder.org/doc/
