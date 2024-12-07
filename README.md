@@ -3,4 +3,6 @@
 - 选择任意套餐均可
 - 购买后配置教程：https://kingfast.info/docs/#/
 
+### 特点
 
+- 有 openai 专用节点
